@@ -47,16 +47,6 @@ a:hover {
     color: rgba(21, 42, 86, 0.9);
     font-family:sans-serif;
 }
-.image-container {
-    display: grid;
-    grid-template-columns: repeat(4, 1fr);
-    gap: 0.5%;
-}
-.image-container img {
-    width: 22em;
-    height: auto;
-    display: block;
-}
 .main-discripton {
     text-align: left;
     padding: 3%;
@@ -117,5 +107,5 @@ footer :hover {
 }
 
 .btn-primary :hover {
-    background-color:#152A56;
+    background-color: #152A56;
 }
