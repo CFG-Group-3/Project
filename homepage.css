@@ -39,15 +39,14 @@ a:hover {
     color: #152A56; 
 }
 
+
 .slogan {
     text-align: center;
-    font-size: 1.5em;
+    font-size: 2em;
     padding: 5%;
-    color:  #CB6CE6;
+    color: rgba(21, 42, 86, 0.9);
     font-family:sans-serif;
-
-}
-
+  }
 
 
 .image-container {
